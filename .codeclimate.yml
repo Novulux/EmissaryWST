@@ -10,7 +10,7 @@ ratings:
   - client/src/**/*.js
   - server/**/*.js
   - routes/**/*.js
-  - client/assets/native**/*.css
+  - client/assets/native/**/*.css
   - client/src/**/*.css
   - server/**/*.css
   - routes/**/*.css
