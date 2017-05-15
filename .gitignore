@@ -8,6 +8,7 @@ npm-debug.log
 .DS_Store
 server/log
 newrelic_agent.log
+.vscode
 
 mobile/platforms/
 mobile/plugins/
